@@ -38,13 +38,13 @@ After all processes are done it will delete the model so that you can continue o
 **Extra Info**
 
 Regions are labeled A-J with 1-8 for each one. Static basically means terrain, Dynamic means things that temporarily exists like trees (since they can be cut down) or mobs.
-From 
-https://objmap.zeldamods.org/#/map/z3,0,0
+
 
 ![image](https://github.com/PianoPsychopath/Botw-Mubin-to-Blender/assets/136649946/e710fa4b-62e2-4de9-8d7b-e603498f6eba)
 
 
 
-
+From 
+https://objmap.zeldamods.org/#/map/z3,0,0
 
 
