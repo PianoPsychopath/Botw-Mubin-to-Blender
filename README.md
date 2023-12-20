@@ -12,6 +12,8 @@ C:/Users/piano/Desktop/BOTWMUBIN-2-BLENDER/
 
 **DISCORD ALERT SYSTEM**(it takes a long time sometimes so its nice to have an alert)
 
+![image](https://github.com/PianoPsychopath/Botw-Mubin-to-Blender/assets/136649946/6b964037-a29c-418e-a1f8-4405d95ae046)
+
 -Setup a discord bot in a server.
 
 -Change "logs" on line 16 and line 28 to preffered channel
