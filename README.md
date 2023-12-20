@@ -2,6 +2,8 @@
 
 Exports static mubin and dynamic mubin regions into blender in mass. Can also send notification to discord with process is completed
 
+https://cdn.discordapp.com/attachments/316759660445040642/1186847705448861746/4kmega_oof.png?ex=6594bd0f&is=6582480f&hm=dbd1012751958db10bdff37b438b40e33f3e1574c1bfbdc4cf90048225d02054&
+
 # SETUP
 
 The folder must be in your Desktop or readjust the file path:
