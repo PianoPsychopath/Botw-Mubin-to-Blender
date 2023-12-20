@@ -18,9 +18,9 @@ C:/Users/piano/Desktop/BOTWMUBIN-2-BLENDER/
 
 -Setup a discord bot in a server.
 
--Change "logs" on line 16 and line 28 to preffered channel
+-Change ```logs``` on line 16 and line 28 to preffered channel
 
--Change "BOT_TOKEN" on line 228 to your bot token
+-Change ```BOT_TOKEN``` on line 228 to your bot token
 
 **MODELS**
 
