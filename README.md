@@ -10,7 +10,7 @@ Exports static mubin and dynamic mubin regions into blender in mass. Can also se
 The folder must be in your Desktop or readjust the file path:
 C:/Users/piano/Desktop/BOTWMUBIN-2-BLENDER/
 
-**DISCORD ALERT SYSTEM**
+**DISCORD ALERT SYSTEM**(it takes a long time sometimes so its nice to have an alert)
 
 -Setup a discord bot in a server.
 
