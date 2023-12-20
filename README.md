@@ -2,7 +2,8 @@
 
 Exports static mubin and dynamic mubin regions into blender in mass. Can also send notification to discord with process is completed
 
-https://cdn.discordapp.com/attachments/316759660445040642/1186847705448861746/4kmega_oof.png?ex=6594bd0f&is=6582480f&hm=dbd1012751958db10bdff37b438b40e33f3e1574c1bfbdc4cf90048225d02054&
+![4kmega_oof](https://github.com/PianoPsychopath/Botw-Mubin-to-Blender/assets/136649946/9f02a341-f3e3-47a2-b49b-0fffdebb4db8)
+
 
 # SETUP
 
