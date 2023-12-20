@@ -1,0 +1,32 @@
+
+J-8_Static.obj Dimensions (meters):
+Width: infm
+Height: infm
+Depth: infm
+Coordinates (meters):
+XYZ: nan, nan, nan
+Total Faces: 0 
+
+J-8_Static.obj Dimensions (meters):
+Width: 4949.857910096645m
+Height: 220.21627801656723m
+Depth: 3823.9898872543126m
+Coordinates (meters):
+XYZ: 2474.1491699516773, 109.54026797413826, 1911.9872341072187
+Total Faces: 296699 
+
+J-8_Static.obj Dimensions (meters):
+Width: 4960.103515565395m
+Height: 256.3335112929344m
+Depth: 3883.3993110824376m
+Coordinates (meters):
+XYZ: 2479.2719726860523, 127.59888461232185, 1941.6919460212812
+Total Faces: 296699 
+
+J-8_Static.obj Dimensions (meters):
+Width: 4949.857910096645m
+Height: 220.21627801656723m
+Depth: 3823.9898872543126m
+Coordinates (meters):
+XYZ: 2474.1491699516773, 109.54026797413826, 1911.9872341072187
+Total Faces: 296699 
