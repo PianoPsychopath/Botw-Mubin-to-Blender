@@ -7,6 +7,8 @@ Exports static mubin and dynamic mubin regions into blender in mass. Can also se
 
 # SETUP
 
+you might need to do a few powershell/cmd stuff like ```pip install discord```  (just look at the imports from line 1 to 11 and see what you're missing)
+
 The folder must be in your Desktop or readjust the file path:
 C:/Users/piano/Desktop/BOTWMUBIN-2-BLENDER/
 
