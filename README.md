@@ -26,6 +26,10 @@ In blender open up scripts and open Main.py
 
 At the very bottom line 224-225 change A-1_Static to your desired region ex: B-4_Static.txt, J-1_Dynamic etc.
 
+Hit run - recommend opening console to see if it froze.
+
+After all processes are done it will delete the model so that you can continue onto another region. Just import obj from the exportedOBJ folder.
+
 **Extra Info**
 
 Regions are labeled A-J with 1-8 for each one. Static basically means terrain, Dynamic means things that temporarily exists like trees (since they can be cut down) or mobs.
