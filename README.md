@@ -49,6 +49,7 @@ Regions are labeled A-J with 1-8 for each one. Static basically means terrain, D
 Imgae From 
 https://objmap.zeldamods.org/#/map/z3,0,0
 
+
 The txt files where converted from the xml format to csv then converted to txt in a format that was easier for me to work with. 
 
 
