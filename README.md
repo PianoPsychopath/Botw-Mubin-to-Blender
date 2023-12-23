@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Exports static mubin and dynamic mubin regions into blender in mass. Can also send notification to discord with process is completed
+Exports static mubin and dynamic mubin regions into blender in mass. Can also send notification to discord when process is completed
 
 ![4kmega_oof](https://github.com/PianoPsychopath/Botw-Mubin-to-Blender/assets/136649946/9f02a341-f3e3-47a2-b49b-0fffdebb4db8)
 
