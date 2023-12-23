@@ -50,6 +50,6 @@ Imgae From
 https://objmap.zeldamods.org/#/map/z3,0,0
 
 
-The txt files where converted from the xml format to csv then converted to txt in a format that was easier for me to work with. 
+The txt files were converted from the xml format to csv then converted to txt in a format that was easier for me to work with. 
 
 
